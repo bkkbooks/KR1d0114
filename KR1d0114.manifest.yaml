@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR1d0114_001.yaml, hash: 'sha256:c895f584a4faa9c4448dbfdbd0046f3648e56d220e0674660f0bff71254efe5f'}
+  - {seq: 1, filename: KR1d0114_001.yaml, hash: 'sha256:d483d9f5789070dff41785d5849ade1afcb7864a6f0eac3f4ee588ed47d4dfe9'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR1d0114_001.markers.yaml, hash: 'sha256:7946077f55b9a6f435da5af5254b68989613ff2c307d2185a31d4bc788e55bf6'}
+  - {seq: 1, role: markers, filename: assets/KR1d0114_001.markers.yaml, hash: 'sha256:0490e6b169685afdb82742422600ba13b1bb817cb292657127e03e04bbd8fa5c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 喪服變除圖
   type: section
   level: 1
-hash: sha256:2c17c4b026aff6dcf3e391af687940b4f18dfe35417ba1440aa92b97f032a10f
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4e3de8ddcc571a1b12f58011afec4c231702a92f5679b5c4b506c743017e0253
